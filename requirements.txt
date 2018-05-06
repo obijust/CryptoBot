@@ -17,5 +17,5 @@ dash-table-experiments
 flask
 dash-renderer
 dash-html-components
-dash-core-components
+dash-core-components==0.21.rc01
 flask

@@ -80,7 +80,8 @@ def load_callbacks():
         update_symbol_dropdown_value, \
         update_evaluator_dropdown, \
         update_currencies_amounts, \
-        update_portfolio_value
+        update_portfolio_value, \
+        display_content
 
 
 def load_routes():
